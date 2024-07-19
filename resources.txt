@@ -1,0 +1,9 @@
+Need to read an review
+
+1) https://solutionsreview.com/data-management/the-best-enterprise-data-lake-solutions/ - the 12 best enterprise Data Lake solutions for 2024.
+2) https://www.ciodive.com/news/walmart-earnings-cloud-automation/595658/ - Walmart saves millions with cloud and ML upgrades.
+3) https://medium.com/walmartglobaltech/lakehouse-at-fortune-1-scale-480bcb10391b - Lakehouse at Fortune 1 Scale.
+4) https://rtelles64.medium.com/how-uber-delivers-big-data-in-less-than-an-hour-aad1ecc0f3b7 - how Uber delivers Big Data in Less than an hour.
+5) https://www.uber.com/en-RO/blog/ubers-lakehouse-architecture/ - setting ubers transactional data lake in Motion with incremental ETL using Apache Hugi.
+6) https://www.youtube.com/watch?v=jMFMEk8jFu8&ab_channel=AWSEvents - about NEtflix
+7) https://medium.com/@bishal135/netflixs-big-data-architecture-c27d90ba781e - Netflix Big Data Architecture.
